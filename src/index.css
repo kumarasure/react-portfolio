@@ -26,6 +26,14 @@ a{
   border-bottom: 2px solid #abbde9;
 }
 
+/* @media (max-width: 320px) {
+  .nav_items {
+    width: 100%;
+    color: blue;
+  }
+} */
+
+
 /* Home Section */
 
 .homeContainer{
@@ -58,6 +66,14 @@ a{
   border: 1px solid rgb(200, 224, 18);
   box-shadow: var(--box-shadow);
 }
+
+@media (max-width: 320px) {
+  .homeContainer {
+    position: relative;
+    top: 0;
+  }
+}
+
 /* Experience Section */
 
 .exp {
