@@ -14,28 +14,41 @@
   },
   {
     "id": 2,
-    "role": "Software Development Engineer SDE - I",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2022",
-    "endDate": "Aug, 2023",
-    "location": "London, UK",
+    "role": "Techniqual Support Engineer ",
+    "organisation": "Hitachi",
+    "startDate": "May, 2017",
+    "endDate": "May, 2019",
+    "location": "Meerut, UP",
     "experiences": [
-      "Worked on Windows 10 terminal",
-      "Worked on Window 11 Upcoming features"
+      "Worked on Update the Antivirus",
+      "Worked on centralized Server"
     ],
-    "imageSrc": "company/microsoft.png"
+    "imageSrc": "company/hitachi.jpg"
   },
   {
     "id": 3,
-    "role": "Software Development Engineer - Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2021",
-    "endDate": "Jun, 2022",
-    "location": "Bengluru, India",
+    "role": "Techniqual Support Engineer (NAP Engineer)",
+    "organisation": "NTT Data India",
+    "startDate": "Aug, 2019",
+    "endDate": "Jan, 2021",
+    "location": "Moradabad, (U.P)",
     "experiences": [
-      "Worked on Nextflix payment system",
-      "Helped to create UI for video player"
+      "Worked on Router Configuration",
+      "Helped to Banking Customer Support"
     ],
-    "imageSrc": "company/netflix.png"
+    "imageSrc": "company/ntt2.jpg"
+  },
+  {
+    "id": 3,
+    "role": "Team Leader",
+    "organisation": "Maksat",
+    "startDate": "May, 2022",
+    "endDate": "May, 2023",
+    "location": "Meerut, India",
+    "experiences": [
+      "Worked on Router/Switch Configuration",
+      "Helped to Monetaring the Field Engineer"
+    ],
+    "imageSrc": "company/makset.jpg"
   }
 ]

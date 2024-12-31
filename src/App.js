@@ -7,6 +7,7 @@ import Experience from"./components/Experience"
 import Skill from "./components/Skill";
 import Project from "./components/Project";
 import Contact from "./components/Contact"
+import Form from "./components/Form";
 import Aos from "aos";
 import "aos/dist/aos.css"
 
@@ -22,7 +23,9 @@ function App() {
       <Experience />
       <Skill />
       <Project />
+      <Form />
       <Contact />
+     
       </div>
     
     </>
